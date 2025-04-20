@@ -1,4 +1,5 @@
-Titanic dataset analysis means studying the information about the passengers who were on the Titanic ship to find patterns — like who survived and who didn’t. The dataset includes details like age, gender, ticket class, and whether each person survived.
+Titanic dataset analysis means studying the information about the passengers who were on the Titanic ship to find patterns 
+— like who survived and who didn’t. The dataset includes details like age, gender, ticket class, and whether each person survived.
 # Analyzing-the-Titanic-Dataset
 import pandas as pd
 import matplotlib.pyplot as plt
